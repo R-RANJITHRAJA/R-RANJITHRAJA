@@ -1,1 +1,15 @@
 
+# sorting a list
+li= [10, 30, 40, 20, 50]
+
+# sorting and printing 
+li.sort()
+print (li)
+
+
+# List sorting in descending order
+li = [10, 30, 40, 20, 50]
+
+# sorting and printing 
+li.sort(reverse=True)
+print (li)
