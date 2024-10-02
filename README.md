@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Ranjith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/236x/98/26/aa/9826aa73616830568290b68980502c27.jpg">
