@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ranjith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://i.pinimg.com/236x/98/26/aa/9826aa73616830568290b68980502c27.jpg">
+<img align="right" width="400" src="https://img.freepik.com/premium-vector/programmer-cartoon-character-coding-icon-vector_1080480-50016.jpg">
 
 - 🌱 I’m currently learning **React Native**
 
